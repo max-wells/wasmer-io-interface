@@ -1,0 +1,5 @@
+name: wasmer-io-interface
+app_id: da_RMMIrt4UA97b
+owner: maxime15848
+package: .
+kind: wasmer.io/App.v0
